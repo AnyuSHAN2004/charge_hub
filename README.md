@@ -10,6 +10,14 @@ All PCB design files are located in the `/PCB` folder. To fabricate the PCB dire
 
 所有 PCB 设计文件均位于 `/PCB` 文件夹中。如需直接打样，请将 `Charge_Hub_V1.zip` 上传至 PCB 制造商。如需查看或修改设计，请使用 Altium Designer 打开源文件。
 
+The source control IC used in this project is the HUSB305-01. A 22 μF MLCC in a 1210 package is used for bulk decoupling. The ESD protection device may be selected according to availability.
+
+本项目使用的源端控制芯片为 HUSB305-01。大容量去耦电容采用 1210 封装的 22 μF MLCC。ESD 保护器件可根据实际供货情况选择。
+
+The input USB Type-C connector is TYPE-C-31-M-12. The output connector is a 16-pin vertical-surface-mount USB Type-C male connector with a height of 12.0/11.94 mm, SMT harpoon tabs.
+
+输入端 USB Type-C 连接器采用 TYPE-C-31-M-12。输出端采用 TYPE-C 公头 16P 立贴、高度 12.0/11.94 mm、SMT 带鱼叉、磁吸充电数据接头（淘宝搜索）。
+
 All 3D files are located in the `/3D` folder. Submit either the `.step` or `.stl` file to a manufacturer, or use the `.stl` file with your own 3D printer, to produce the enclosure directly.
 
 所有 3D 文件均位于 `/3D` 文件夹中。你可以将 `.step` 或 `.stl` 文件提交给制造商，也可以使用 `.stl` 文件通过自己的 3D 打印机直接制作外壳。
