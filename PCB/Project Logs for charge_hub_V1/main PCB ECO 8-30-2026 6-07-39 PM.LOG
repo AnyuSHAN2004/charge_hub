@@ -1,0 +1,16 @@
+Add Pin To Net: Unknown Pin: Pin J01-P2
+Add Pin To Net: Unknown Pin: Pin J02-P2
+Add Pin To Net: Unknown Pin: Pin J03-P2
+Add Pin To Net: Unknown Pin: Pin J04-P2
+Added Pin To Net: NetName=CC2_P1 Pin=J01-B5
+Added Pin To Net: NetName=CC2_P1 Pin=U01-5
+Added Net: Name=CC2_P1
+Added Pin To Net: NetName=CC2_P2 Pin=J02-B5
+Added Pin To Net: NetName=CC2_P2 Pin=U02-5
+Added Net: Name=CC2_P2
+Added Pin To Net: NetName=CC2_P3 Pin=J03-B5
+Added Pin To Net: NetName=CC2_P3 Pin=U03-5
+Added Net: Name=CC2_P3
+Added Pin To Net: NetName=CC2_P4 Pin=J04-B5
+Added Pin To Net: NetName=CC2_P4 Pin=U04-5
+Added Net: Name=CC2_P4

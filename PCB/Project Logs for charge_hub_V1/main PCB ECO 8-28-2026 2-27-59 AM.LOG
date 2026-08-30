@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VBUS Pin=D01-2
+Removed Pin From Net: NetName=VBUS Pin=D02-2
+Removed Pin From Net: NetName=VBUS Pin=D03-2
+Removed Pin From Net: NetName=VBUS Pin=D04-2
+Removed Member From Class: ClassName=main Member=D01
+Removed Member From Class: ClassName=main Member=D02
+Removed Member From Class: ClassName=main Member=D03
+Removed Member From Class: ClassName=main Member=D04
+Removed Member From Class: ClassName=main Member=R04
+Removed Member From Class: ClassName=main Member=R06
+Removed Member From Class: ClassName=main Member=R08
+Removed Member From Class: ClassName=main Member=R10
+Add Pin To Net: Unknown Pin: Pin J01-P2
+Add Pin To Net: Unknown Pin: Pin J02-P2
+Add Pin To Net: Unknown Pin: Pin J03-P2
+Add Pin To Net: Unknown Pin: Pin J04-P2

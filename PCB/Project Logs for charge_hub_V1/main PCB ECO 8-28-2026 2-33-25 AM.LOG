@@ -1,0 +1,35 @@
+Change Physical Footprint: Designator=C01 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C02 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C03 Old Footprint=RC1210 New Footprint=RC1210
+Change Physical Footprint: Designator=C04 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C05 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C06 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C07 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C08 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C09 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C10 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C11 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C12 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C13 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C14 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=C15 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=CR01 Old Footprint=SOD-123F_LTF New Footprint=SOD-123F_LTF
+Change Physical Footprint: Designator=J00 Old Footprint=HRO_TYPE-C-31-M-12 New Footprint=HRO_TYPE-C-31-M-12
+Change Physical Footprint: Cannot match pads with new footprint in component :J01 Footprint:TYPE-C MALE
+Change Physical Footprint: Cannot match pads with new footprint in component :J02 Footprint:TYPE-C MALE
+Change Physical Footprint: Cannot match pads with new footprint in component :J03 Footprint:TYPE-C MALE
+Change Physical Footprint: Cannot match pads with new footprint in component :J04 Footprint:TYPE-C MALE
+Change Physical Footprint: Designator=JP1 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=JP2 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=JP3 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=JP4 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R01 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R02 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R03 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R05 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R07 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=R09 Old Footprint=RC0603N_YAG New Footprint=RC0603N_YAG
+Change Physical Footprint: Designator=U01 Old Footprint=TSOT23-8L New Footprint=TSOT23-8L
+Change Physical Footprint: Designator=U02 Old Footprint=TSOT23-8L New Footprint=TSOT23-8L
+Change Physical Footprint: Designator=U03 Old Footprint=TSOT23-8L New Footprint=TSOT23-8L
+Change Physical Footprint: Designator=U04 Old Footprint=TSOT23-8L New Footprint=TSOT23-8L

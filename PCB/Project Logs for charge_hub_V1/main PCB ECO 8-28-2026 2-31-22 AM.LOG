@@ -1,0 +1,13 @@
+Added Component: Designator=CR01(SOD-123F_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMF6.5CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=CR01-1
+Added Pin To Net: NetName=GND Pin=CR01-2
+Add Pin To Net: Unknown Pin: Pin J01-P2
+Add Pin To Net: Unknown Pin: Pin J02-P2
+Add Pin To Net: Unknown Pin: Pin J03-P2
+Add Pin To Net: Unknown Pin: Pin J04-P2
+Added Member To Class: ClassName=main Member=Component CR01 SMF6.5CA
